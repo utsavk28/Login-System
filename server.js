@@ -5,8 +5,9 @@ const config = require('config')
 const path = require('path')
 
 // Connect to Db
-const db = config.get('mongoURI')
-mongoose.connect(db,
+require('dotenv').config();
+const uri = process.env.mongoURI;
+mongoose.connect(uri,
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
