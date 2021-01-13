@@ -76,7 +76,7 @@ const RegisterPage = () => {
                         {passwordCheck && <p>Password Should Contain more than 5 characters</p>}
                         {(!(emailCheck || passwordCheck) && account) && <p >Account already exists</p>}
                         <form onSubmit={submitForm}>
-                            <h1 className="h3 mb-3 fw-normal">Please sign Up</h1>
+                            <h1 className="h3 mb-3 fw-normal">Please Sign Up</h1>
                             <div className="mb-3">
                                 <label htmlFor="name" className="visually-hidden">Name</label>
                                 <input type="text" id="name" className="form-control" placeholder="Name" required autoFocus onChange={updateUserData} value={userData.name} />

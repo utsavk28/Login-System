@@ -75,7 +75,7 @@ const LoginPage = () => {
                         {passwordCheck && <p>Password Should Contain more than 5 characters</p>}
                         {(!(emailCheck || passwordCheck) && account) && <p >Account already exists</p>}
                         <form onSubmit={submitForm}>
-                            <h1 className="h3 mb-3 fw-normal">Please Sign Up</h1>
+                            <h1 className="h3 mb-3 fw-normal">Please Sign In</h1>
                             <div className="mb-3">
                                 <label htmlFor="email" className="visually-hidden">Email address</label>
                                 <input type="email" id="email" className="form-control" placeholder="Email address" required onChange={updateUserData} value={userData.email} />
