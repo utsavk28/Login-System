@@ -99,8 +99,8 @@ Basic Mern Knowlegde
 ## ScreenShots
 
 ![Main Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/mainpage.png)
-![Login Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/register.png)
-![Register Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/login.png)
+![Register Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/register.png)
+![Login Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/login.png)
 
 
 
