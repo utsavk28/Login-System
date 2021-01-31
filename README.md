@@ -98,9 +98,9 @@ Basic Mern Knowlegde
 <!-- USAGE EXAMPLES -->
 ## ScreenShots
 
-![Main Page](https://drive.google.com/file/d/1bk3ed5SIMYFelfr-P-NpPyJdL5p9vXet/view?usp=sharing)
-![Login Page](https://drive.google.com/file/d/1Rbkjrym7wBtagN2QLVV_8L74s0H5Fp9s/view?usp=sharing)
-![Register Page](https://drive.google.com/file/d/1KaFYQFlKdLH29iNZ7dTzRLhniEHyof-j/view?usp=sharing)
+![Main Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/mainpage.png)
+![Login Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/register.png)
+![Register Page](https://github.com/utsavk28/Login-System/blob/main/screenshots/login.png)
 
 
 
